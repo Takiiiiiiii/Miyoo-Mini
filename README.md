@@ -1,1 +1,1 @@
-# MiyooMini
+# Miyoo Mini
