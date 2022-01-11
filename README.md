@@ -1,6 +1,13 @@
 # Miyoo Mini Firmware and Configured SD 
 
 
+## Personalization 
+
+Starting from the `01/08/2022` firmware update, you can personalize the Miyoo Mini. If you want to change the stock background music file, you can change the `bgm.mp3` file located in the `\miyoo\app\sound` directory. The stock BGM file has been renamed to bgmbak.mp3 and was replaced with the background music from the Wii. 
+
+You can also customize the UI on the Miyoo Mini with Photoshop or a free editor like GIMP. The png files that you can customize are located in `/miyoo/app/skin` and `/miyoo/app/skin_640_480/`.
+
+
 ## ROMs
 
 This package does not include any ROMs. The stock SD is filled with mostly Chinese ROMs, but there are English arcade games that you could use with this package. The path directories for the included systems in this release are as follows:
@@ -39,3 +46,6 @@ This package does not include any ROMs. The stock SD is filled with mostly Chine
 ## BIOS Files
 
 The BIOS files that were included with the Miyoo Mini's SD card have been removed from this package. You will still need those files if you want to use the SD package in this repo. The files that you need to copy can be found in the `\Retroarch\.retroarch\system\' directory. Copy all of these files over to a newly prepared SD card with the SD package provided. Additionally, you should also take the `gba_bios.bin' file from the above directory and put it inside the `\Emu\GBA\` directory so you can use the gpsp emulator as a standalone core in the future. You can also copy the PlayStation 1 BIOS files located in the `\Emu\PS\bios\` folder on the stock SD card and paste them into the same path from this image for better compatiblity with the included standalone emulator. 
+
+## Stock SD Notice
+Even though the Miyoo Mini comes with an SD card, it is a good practice to replace this card with one of your own to increase the number of games that can fit on the device and to ensure quality. I also recommend that you keep a local backup of the files that you use on the Miyoo Mini on your computer and periodically transfer over save states and other important data in the off chance that your SD card corrupts. I haven't had this happen on my personal SD cards, but I have had to reformat the included cards a few times due to unknown issues. This repo assumes that you will start over with a fresh SD card.
