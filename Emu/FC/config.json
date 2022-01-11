@@ -1,0 +1,12 @@
+{
+"label":"FC",
+"icon":"ic-FC.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/nes",
+"imgpath":"../../Imgs/FC",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"nes|fds|unf|unif"
+}
