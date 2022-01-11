@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sdlpal
+Comment=SDLPAL
+Exec=sdlpal.dge
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=icon-32
+Categories=emulators;
+X-OD-NeedsDownscaling=true
