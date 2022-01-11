@@ -1,0 +1,12 @@
+{
+"label":"WSC",
+"icon":"ic-WSC.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/swan",
+"imgpath":"../../Imgs/WSC",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"wsc|ws|zip"
+}
