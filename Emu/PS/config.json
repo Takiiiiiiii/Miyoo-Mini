@@ -1,0 +1,12 @@
+{
+"label":"PS",
+"icon":"ic-PS.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/ps1",
+"imgpath":"../../Imgs/PS",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":"bin|cue|img|mdf|pbp|toc|cbn|m3u|chd"
+}

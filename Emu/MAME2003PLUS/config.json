@@ -1,0 +1,13 @@
+{
+"label":"MAMEPlus",
+"icon":"ic-mame-plus.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/MAME2003",
+"imgpath":"../../Imgs/mame2003plus",
+"gamelist":"../../Roms/MAME2003/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

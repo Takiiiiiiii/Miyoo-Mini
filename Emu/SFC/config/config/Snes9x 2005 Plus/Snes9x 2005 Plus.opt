@@ -1,0 +1,3 @@
+catsfc_next_reduce_sprite_flicker = "enabled"
+catsfc_overclock_cycles = "max"
+catsfc_VideoMode = "auto"

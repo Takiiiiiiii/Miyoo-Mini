@@ -1,0 +1,19 @@
+#!/bin/sh
+echo $0 $*
+progdir=`dirname "$0"`
+homedir=`dirname "$1"`
+ROMNAME="$1"
+ROMNAMETMP=${ROMNAME%.*}
+
+cd $progdir
+if [ -f "${ROMNAMETMP}.bios" ]; then
+		cp -f "${ROMNAMETMP}.bios" "${progdir}/bios/scph1001.bin"
+else
+		cp -f "${progdir}/bios/scph1001.bios" "${progdir}/bios/scph1001.bin"
+fi
+
+./cpufreq.sh
+
+HOME=$homedir $progdir/pcsx -cdfile "$1"
+
+#HOME=$homedir $progdir/ra32.ss -L $progdir/libpcsx.so "$1"

@@ -1,0 +1,13 @@
+{
+"label":"NEOGEO",
+"icon":"ic-neogeo.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/neogeo",
+"imgpath":"../../Imgs/neogeo",
+"gamelist":"../../Roms/NEOGEO/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

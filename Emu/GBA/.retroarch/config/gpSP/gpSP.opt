@@ -1,0 +1,7 @@
+gpsp_color_correction = "disabled"
+gpsp_drc = "enabled"
+gpsp_frame_mixing = "disabled"
+gpsp_frameskip = "disabled"
+gpsp_frameskip_interval = "1"
+gpsp_frameskip_threshold = "33"
+gpsp_save_method = "gpSP"
