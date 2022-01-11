@@ -1,5 +1,11 @@
 # Miyoo Mini Firmware and Configured SD 
 
+## Personalization 
+
+Starting from the `01/08/2022` firmware update, you can personalize the Miyoo Mini. If you want to change the stock background music file, you can change the `bgm.mp3` file located in the `\miyoo\app\sound` directory. The stock BGM file has been renamed to bgmbak.mp3 and was replaced with the background music from the Wii. 
+
+You can also customize the UI on the Miyoo Mini with Photoshop or a free editor like GIMP. The png files that you can customize are located in `/miyoo/app/skin` and `/miyoo/app/skin_640_480/`
+
 
 ## ROMs
 
