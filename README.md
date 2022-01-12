@@ -7,7 +7,7 @@ Even though the Miyoo Mini comes with an SD card, it is a good practice to repla
 
 ## Creating a New SD
 
-If you plan on starting over with a new SD card, you will need to format the card as FAT32. You can format large SD cards as FAT32 in Windows 10 by downloading Rufus (https://rufus.ie/en/) and changing a few of the default options. In the `Boot selection` drop-down list, select `Non bootable`. In the `File system` drop-down list, select `Large FAT32 (Default) and make sure to untick `Create extended label and icon files`.
+If you plan on starting over with a new SD card, you will need to format the card as FAT32. You can format large SD cards as FAT32 in Windows 10 by downloading Rufus (https://rufus.ie/en/) and changing a few of the default options. In the `Boot selection` drop-down list, select `Non bootable`. In the `File system` drop-down list, select `Large FAT32 (Default)` and make sure to untick `Create extended label and icon files`.
 
 ## Personalization 
 
