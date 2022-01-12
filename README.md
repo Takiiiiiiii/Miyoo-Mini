@@ -51,6 +51,8 @@ This package does not include any ROMs. The stock SD is filled with mostly Chine
 
 ## BIOS Files
 
-The BIOS files that were included with the stock SD card have been removed from this package. You will still need those files if you want to use the SD package in this repo. The files that you need to copy can be found in the `\Retroarch\.retroarch\system\` directory. Copy all of these files over to a newly prepared SD card with the SD package provided. Additionally, you should also take the `gba_bios.bin' file from the above directory and put it inside the `\Emu\GBA\` directory so you can use the gpsp emulator as a standalone core in the future. You can also copy the PlayStation 1 BIOS files located in the `\Emu\PS\bios\` folder on the stock SD card and paste them into the same path from this image for better compatibility with the included standalone emulator. 
+The BIOS files that were included with the stock SD card have been removed from this package. You will still need those files if you want to use the SD package in this repo. The files that you need to copy can be found in the `\Retroarch\.retroarch\system\` directory. Copy all of these files over to a newly prepared SD card with the SD package provided. 
+
+Additionally, you should also take the `gba_bios.bin` file from the above directory and put it inside the `\Emu\GBA\` directory so you can use the gpsp emulator as a standalone core in the future. You can also copy the PlayStation 1 BIOS files located in the `\Emu\PS\bios\` folder on the stock SD card and paste them into the same path from this image for better compatibility with the included standalone emulator. 
 
 ## RetroArch Hotkeys
