@@ -22,8 +22,8 @@ You can also customize the UI on the Miyoo Mini with Photoshop or a free editor 
 
 This package does not include any ROMs. The stock SD is filled with mostly Chinese ROMs, but there are English arcade games that you could use with this package. This device works best with `No-Intro` romsets. Whenever you add new ROMs to the system, you can manually delete the `_cache2.db` file located inside the ROM subdirectory, or you can press the function button on the device and select the `Refresh Roms` option. You can also delete these files or any other ROMs that you do not want by pressing the function button while a ROM is highlighted. The path directories for the included systems in this release are as follows:
 
-- Atari 2600: `/Roms/2600` 
-- Atari 7800: `/Roms/7800` 
+- Atari 2600: `/Roms/atari2600` 
+- Atari 7800: `/Roms/atari7800` 
 - Atari Lynx: `/Roms/lynx`
 - Amstrad CPC: `/Roms/amstrad`
 - CPS1: `/Roms/cps1`
