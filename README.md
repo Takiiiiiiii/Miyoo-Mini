@@ -1,5 +1,8 @@
 # Miyoo Mini Firmware and Configured SD 
-This repository contains a debloated and improved SD card image for the Miyoo Mini. You can find links to the official firmware updates and this custom SD card image in the releases section: https://github.com/Takiiiiiiii/Miyoo-Mini/releases
+This repository contains a debloated and improved SD card image for the Miyoo Mini. 
+
+Latest Firmware Update Package: https://github.com/Takiiiiiiii/Miyoo-Mini/releases/tag/Latest
+Latest Configured SD Package: https://github.com/Takiiiiiiii/Miyoo-Mini/releases/tag/v1.0SD
 
 ## Stock SD Notice
 
