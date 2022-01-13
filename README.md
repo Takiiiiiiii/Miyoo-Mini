@@ -17,7 +17,7 @@ You can also customize the UI on the Miyoo Mini with Photoshop or a free editor 
 
 ## ROMs
 
-This package does not include any ROMs. The stock SD is filled with mostly Chinese ROMs, but there are English arcade games that you could use with this package. This device works best with `No-Intro` romsets. Whenever you add new ROMs to the system, you can manually delete the `_cache2.db` file located inside the ROM subdirectory, or you can press the function button on the device and select the `Refresh Roms` option. The path directories for the included systems in this release are as follows:
+This package does not include any ROMs. The stock SD is filled with mostly Chinese ROMs, but there are English arcade games that you could use with this package. This device works best with `No-Intro` romsets. Whenever you add new ROMs to the system, you can manually delete the `_cache2.db` file located inside the ROM subdirectory, or you can press the function button on the device and select the `Refresh Roms` option. You can also delete these files or any other ROMs that you do not want by pressing the function button while a ROM is highlighted. The path directories for the included systems in this release are as follows:
 
 - Atari 2600: `/Roms/2600` 
 - Atari 7800: `/Roms/7800` 
@@ -54,6 +54,6 @@ This package does not include any ROMs. The stock SD is filled with mostly Chine
 
 The BIOS files that were included with the stock SD card have been removed from this package. You will still need those files if you want to use the SD package in this repo. The files that you need to copy can be found in the `\Retroarch\.retroarch\system\` directory. Copy all of these files over to a newly prepared SD card with the SD package provided. 
 
-Additionally, you should also take the `gba_bios.bin` file from the above directory and put it inside the `\Emu\GBA\` directory so you can use the gpsp emulator as a standalone core in the future. You can also copy the PlayStation 1 BIOS files located in the `\Emu\PS\bios\` folder on the stock SD card and paste them into the same path from this image for better compatibility with the included standalone emulator. 
+Additionally, you should copy the PlayStation 1 BIOS files located in the `\Emu\PS\bios\` folder on the stock SD card and paste them into the same path from this image for better compatibility with the included standalone emulator. 
 
 ## RetroArch Hotkeys
