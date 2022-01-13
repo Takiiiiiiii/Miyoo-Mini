@@ -1,0 +1,12 @@
+{
+"label":"mednafen_ngp",
+"icon":"mednafen_ngp.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/ngp",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

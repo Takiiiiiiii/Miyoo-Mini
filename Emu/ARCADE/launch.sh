@@ -2,6 +2,6 @@
 echo $0 $*
 progdir=`dirname "$0"`
 homedir=`dirname "$1"`
-cd $progdir
-HOME=$homedir $progdir/ra32.ss -L $progdir/fbalpha2012_libretro.so "$1"
-
+./cpufreq.sh
+cd /mnt/SDCARD/RetroArch/
+HOME=/mnt/SDCARD/RetroArch/ $progdir/../../RetroArch/retroarch -v -L $progdir/fbalpha_libretro.so "$1"

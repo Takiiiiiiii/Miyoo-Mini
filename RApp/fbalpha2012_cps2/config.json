@@ -1,0 +1,13 @@
+{
+"label":"CPS2",
+"icon":"fbalpha2012_cps2.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/cps2",
+"imgpath":"../../Imgs/cps2",
+"gamelist":"../../Roms/cps2/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

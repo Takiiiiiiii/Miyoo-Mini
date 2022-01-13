@@ -1,0 +1,12 @@
+{
+"label":"GG",
+"icon":"ic-GG.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/sega/gg",
+"imgpath":"../../Imgs/GG",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gen|md|smd|32x"
+}

@@ -2,5 +2,5 @@
 echo $0 $*
 progdir=`dirname "$0"`
 homedir=`dirname "$1"`
-cd $progdir
-HOME=$homedir $progdir/ra32.ss -L $progdir/race_libretro.so "$1"
+cd /mnt/SDCARD/RetroArch/
+HOME=/mnt/SDCARD/RetroArch/ $progdir/../../RetroArch/retroarch -v -L $progdir/race_libretro.so "$1"

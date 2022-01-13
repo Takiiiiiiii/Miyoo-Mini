@@ -1,10 +1,10 @@
 {
-"label":"ARCADE",
+"label":"FBA",
 "icon":"ic-ARCADE.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/fbneo",
-"imgpath":"../../Imgs/fbneo",
+"rompath":"../../Roms/arcade",
+"imgpath":"../../Imgs/ARCADE",
 "useswap":1,
 "shortname":1,
 "hidebios":1,

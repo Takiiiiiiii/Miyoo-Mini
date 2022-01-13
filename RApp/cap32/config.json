@@ -1,0 +1,12 @@
+{
+"label":"cap32",
+"icon":"cap32.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/amstrad",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

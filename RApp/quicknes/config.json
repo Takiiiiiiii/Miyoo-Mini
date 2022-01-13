@@ -1,0 +1,12 @@
+{
+"label":"quicknes",
+"icon":"quicknes.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/nes",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

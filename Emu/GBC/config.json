@@ -1,0 +1,12 @@
+{
+"label":"GBC",
+"icon":"ic-GBC.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/gbgbc/gbc",
+"imgpath":"../../Imgs/GBC",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gb|gbc"
+}

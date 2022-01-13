@@ -1,0 +1,12 @@
+{
+"label":"mednafen_supergrafx",
+"icon":"mednafen_supergrafx.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/pce",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

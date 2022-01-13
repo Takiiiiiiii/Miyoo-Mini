@@ -1,0 +1,12 @@
+{
+"label":"LYNX",
+"icon":"ic-LYNX.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/lynx",
+"imgpath":"../../Imgs/LYNX",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

@@ -1,7 +1,0 @@
-{
-"label":"关机",
-"icon":"pw.png",
-"iconsel":"pw_sel.png",
-"launch":"launch.sh",
-"description":"Shutdown"
-}

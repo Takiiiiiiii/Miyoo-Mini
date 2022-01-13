@@ -1,0 +1,12 @@
+{
+"label":"gambatte",
+"icon":"gambatte.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/gbgbc",
+"imgpath":"../../Imgs/GB",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

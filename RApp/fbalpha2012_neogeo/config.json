@@ -1,0 +1,12 @@
+{
+"label":"neogeo",
+"icon":"fbalpha2012_neogeo.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/neogeo",
+"imgpath":"../../Imgs/neogeo",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":""
+}

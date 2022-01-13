@@ -1,0 +1,12 @@
+{
+"label":"mednafen_vb",
+"icon":"mednafen_vb.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/vb",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

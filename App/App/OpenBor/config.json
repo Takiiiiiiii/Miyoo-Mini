@@ -1,0 +1,7 @@
+{
+"label":"OpenBor",
+"icon":"sor.png",
+"iconsel":"sor_sel.png",
+"launch":"launch.sh",
+"description":"OpenBor"
+}

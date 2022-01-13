@@ -1,0 +1,12 @@
+{
+"label":"stella2014",
+"icon":"stella2014.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/2600",
+"imgpath":"../../Imgs/",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

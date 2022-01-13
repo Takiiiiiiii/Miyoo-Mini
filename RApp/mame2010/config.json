@@ -1,0 +1,13 @@
+{
+"label":"mame2010",
+"icon":"mame2010.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/mame2010",
+"imgpath":"../../Imgs/mame2010",
+"gamelist":"../../Roms/mame2010/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

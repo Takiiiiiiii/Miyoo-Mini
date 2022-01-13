@@ -1,0 +1,15 @@
+#!/bin/sh
+echo $0 $*
+progdir=`dirname "$0"`
+homedir=`dirname "$1"`
+ROMNAME="$1"
+ROMNAMETMP=${ROMNAME%.*}
+if [ -f "${ROMNAMETMP}.bios" ]; then
+		cp -f "${ROMNAMETMP}.bios" "/mnt/SDCARD/RetroArch/.retroarch/system/scph101.bin"
+else
+		cp -f "/mnt/SDCARD/RetroArch/.retroarch/system/scph101.bios" "/mnt/SDCARD/RetroArch/.retroarch/system/scph101.bin"
+fi
+./cpufreq.sh
+cd /mnt/SDCARD/RetroArch/
+#HOME=/mnt/SDCARD/RetroArch/ $progdir/../../RetroArch/retroarch -v -L $progdir/pcsx_rearmed_libretro.so "$1"
+HOME=/mnt/SDCARD/RetroArch/ $progdir/../../RetroArch/retroarch -v -L $progdir/libpcsx.so "$1"
