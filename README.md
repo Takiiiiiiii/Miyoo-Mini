@@ -57,3 +57,10 @@ The BIOS files that were included with the stock SD card have been removed from 
 Additionally, you should copy the PlayStation 1 BIOS files located in the `\Emu\PS\bios\` folder on the stock SD card and paste them into the same path from this image for better compatibility with the included standalone emulator. 
 
 ## RetroArch Hotkeys
+
+- Open RetroArch Quick Menu = start + Select
+- Save State = FN + Down
+- Load State = FN + Up
+- Fast Forward = FN + R1
+- Reset = FN + Select
+- Quit RA = FN + Start (2x)
