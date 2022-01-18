@@ -3,7 +3,7 @@
 "icon":"ic-PCE.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/pce",
+"rompath":"../../Roms/PCE",
 "imgpath":"../../Imgs/PCE",
 "useswap":0,
 "shortname":0,

@@ -3,7 +3,7 @@
 "icon":"ic-GBC.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/gbgbc/gbc",
+"rompath":"../../Roms/GBC",
 "imgpath":"../../Imgs/GBC",
 "useswap":0,
 "shortname":0,

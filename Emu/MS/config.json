@@ -3,7 +3,7 @@
 "icon":"ic-SMS.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/sega/ms",
+"rompath":"../../Roms/MS",
 "imgpath":"../../Imgs/MS",
 "useswap":0,
 "shortname":0,

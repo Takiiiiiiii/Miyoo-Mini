@@ -1,9 +1,9 @@
 {
-"label":"FBA",
+"label":"ARCADE",
 "icon":"ic-ARCADE.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/arcade",
+"rompath":"../../Roms/ARCADE",
 "imgpath":"../../Imgs/ARCADE",
 "useswap":1,
 "shortname":1,

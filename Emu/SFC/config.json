@@ -3,7 +3,7 @@
 "icon":"ic-SFC.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/snes",
+"rompath":"../../Roms/SFC",
 "imgpath":"../../Imgs/SFC",
 "useswap":0,
 "shortname":0,

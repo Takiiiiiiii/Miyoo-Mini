@@ -3,7 +3,7 @@
 "icon":"ic-GG.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/sega/gg",
+"rompath":"../../Roms/GG",
 "imgpath":"../../Imgs/GG",
 "useswap":0,
 "shortname":0,

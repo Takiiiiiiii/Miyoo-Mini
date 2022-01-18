@@ -3,7 +3,7 @@
 "icon":"ic-GBA.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/gba",
+"rompath":"../../Roms/GBA",
 "imgpath":"../../Imgs/GBA",
 "useswap":0,
 "shortname":0,

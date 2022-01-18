@@ -3,7 +3,7 @@
 "icon":"ic-NGP.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/ngp",
+"rompath":"../../Roms/NGP",
 "imgpath":"../../Imgs/NGP",
 "useswap":0,
 "shortname":0,

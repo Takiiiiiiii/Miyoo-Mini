@@ -3,7 +3,7 @@
 "icon":"ic-PS.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/ps1",
+"rompath":"../../Roms/PS",
 "imgpath":"../../Imgs/PS",
 "useswap":1,
 "shortname":0,

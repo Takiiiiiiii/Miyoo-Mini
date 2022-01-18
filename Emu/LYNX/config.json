@@ -3,7 +3,7 @@
 "icon":"ic-LYNX.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/lynx",
+"rompath":"../../Roms/LYNX",
 "imgpath":"../../Imgs/LYNX",
 "useswap":0,
 "shortname":0,

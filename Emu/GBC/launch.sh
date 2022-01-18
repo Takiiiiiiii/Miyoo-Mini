@@ -3,7 +3,4 @@ echo $0 $*
 progdir=`dirname "$0"`
 homedir=`dirname "$1"`
 cd $progdir
-
-./cpufreq.sh
-
-HOME=$homedir $progdir/gambatte "$1"
+HOME=$homedir $progdir/../GB/gambatte "$1"

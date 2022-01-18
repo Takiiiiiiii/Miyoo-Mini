@@ -3,7 +3,7 @@
 "icon":"ic-FC.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/nes",
+"rompath":"../../Roms/FC",
 "imgpath":"../../Imgs/FC",
 "useswap":0,
 "shortname":0,
